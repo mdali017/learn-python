@@ -12,3 +12,10 @@ def chai2(n):
     print(n)
 
 # chai2(6)
+
+chai_one = "Lemon tea"
+chai_two = "ginger tea"
+chai_three = "masala chai"
+
+
+# last watching video 5
